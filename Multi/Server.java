@@ -145,7 +145,6 @@ public class Server {
         void send(String message) {
             synchronized (out) {
                 out.println(message);
-                out.flush();
                 if (out.checkError()) {
                     CLIENTS.remove(this);
                     NAMES.remove(this.name);
