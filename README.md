@@ -72,8 +72,8 @@
 
 ```bash
 # 루트에서 (패키지 구조 유지)
-javac -encoding UTF-8 August/day25/Multi/Server.java
-java August.day25.Multi.Server
+javac Server.java
+java -cp . Server
 ```
 
 기본 포트는 `5000`입니다. 변경하려면 `Server.PORT` 상수를 수정하세요.
