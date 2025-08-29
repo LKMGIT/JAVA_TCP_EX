@@ -100,6 +100,13 @@ java -cp . Server
 [서버] 수신: /quit
 ```
 
+## 실행 예시
+<img width="1338" height="997" alt="image" src="https://github.com/user-attachments/assets/a54b4995-572c-4c04-811c-2722f961fb7e" />
+<img width="1348" height="1001" alt="image" src="https://github.com/user-attachments/assets/d5a17676-1415-47d3-a0cc-9da77eb168e3" />
+
+
+
+
 ---
 
 ## 🚧 한계 & TODO
