@@ -101,8 +101,15 @@ java -cp . Server
 ```
 
 ## 실행 예시
-<img width="1338" height="997" alt="image" src="https://github.com/user-attachments/assets/a54b4995-572c-4c04-811c-2722f961fb7e" />
-<img width="1348" height="1001" alt="image" src="https://github.com/user-attachments/assets/d5a17676-1415-47d3-a0cc-9da77eb168e3" />
+<img width="1375" height="954" alt="image" src="https://github.com/user-attachments/assets/f4f30d34-3003-404b-8f6b-00255f698b68" />
+<img width="1384" height="743" alt="image" src="https://github.com/user-attachments/assets/498bd469-d31c-4c2a-8ddc-b73cf0c32869" />
+<img width="606" height="57" alt="image" src="https://github.com/user-attachments/assets/5e7a67a3-f3a5-4488-9325-639e5664acb1" />
+<img width="637" height="57" alt="image" src="https://github.com/user-attachments/assets/87b6d65a-d07b-4680-83f5-f2fe879541f6" />
+<img width="636" height="129" alt="image" src="https://github.com/user-attachments/assets/318e8618-a66e-4cd0-944a-52d05e918c57" />
+<img width="269" height="46" alt="image" src="https://github.com/user-attachments/assets/6e00ea29-87b2-4f27-9144-367801a248e7" />
+<img width="621" height="132" alt="image" src="https://github.com/user-attachments/assets/1f4a4d16-8788-411f-a13b-85e561aaeea8" />
+<img width="483" height="149" alt="image" src="https://github.com/user-attachments/assets/1e1f2cbc-f18a-4129-af98-bf8ca594716e" />
+
 
 
 
