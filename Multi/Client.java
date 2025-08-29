@@ -18,11 +18,12 @@ public class Client {
              // 사용자 입력을 받기 위한 BufferedReader
              BufferedReader keyboard = new BufferedReader(new InputStreamReader(System.in, StandardCharsets.UTF_8))
         ) {
-            // 서버 연결 확인 
+            // 서버 연결 확인
             System.out.println("[클라이언트] 연결되었습니다. " + host + ":" + port);
 
             // 닉네임 입력
-            System.out.print("본인의 닉네임을 입력하세요> ");
+            String name_in = in.readLine();
+            System.out.print(name_in);
             String name = keyboard.readLine();
             out.println(name);
 

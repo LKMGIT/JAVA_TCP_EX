@@ -87,6 +87,7 @@ public class Server {
                 // 닉네임 수신 및 등록 (재입력 루프)
                 out.println("닉네임을 입력하세요:");
                 while (true) {
+
                     String candidate = in.readLine();
                     if (candidate == null) {
                         // 접속 도중 끊김
