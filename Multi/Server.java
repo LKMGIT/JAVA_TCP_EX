@@ -68,7 +68,6 @@ public class Server {
         private BufferedReader in;
         private PrintWriter out;
         private String name;
-        private final Object writeLock = new Object(); // per-client 출력 직렬화용 락
 
         public ClientHandler(Socket socket, int sequence) {
             this.socket = socket;
